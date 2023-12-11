@@ -266,4 +266,4 @@ puzzle_input
 66681
 ```
 
-<!-- livebook:{"offset":12305,"stamp":{"token":"XCP.CazNz0v5yzWFU2cZ-hC6DYSE4NRP_TlYhYU_OiGOBCoCP6o-AanktkCkRKfKsxe92tlhCDfxJGw427CqEbZf1v21m_EoGql3YZwMH7kvrAEIH2-0zyKNwts7","version":2}} -->
+<!-- livebook:{"offset":12305,"stamp":{"token":"XCP.61pcikDmdzpIKGMFh-25_v1_BMLfiBzXcN3fFwOmdwcD1l-WIDomTo70a5tNGUa_0wuCZmT28ARlafX4IgRfq0vFo1L_tNcL50KxaIpBSmsl_oyhTSaoOPXa","version":2}} -->
